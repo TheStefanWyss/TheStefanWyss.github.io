@@ -1,0 +1,120 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Fayer consulting
+</name>
+</assembly>
+<members>
+<member name="T:Fayer_consulting.My.MyWebExtension">
+ <summary>
+ Modul, das zum Definieren der Eigenschaften verwendet wird, die unter "My Namespace" für Webprojekte verfügbar sind.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Fayer_consulting.My.MyWebExtension.Computer">
+ <summary>
+ Gibt Informationen zum Hostcomputer zurück.
+ </summary>
+</member>
+<member name="P:Fayer_consulting.My.MyWebExtension.User">
+ <summary>
+ Gibt Informationen zum aktuellen Webbenutzer zurück.
+ </summary>
+</member>
+<member name="P:Fayer_consulting.My.MyWebExtension.Request">
+ <summary>
+ Gibt das Objekt "Request" zurück.
+ </summary>
+</member>
+<member name="P:Fayer_consulting.My.MyWebExtension.Response">
+ <summary>
+ Gibt das Objekt "Response" zurück.
+ </summary>
+</member>
+<member name="P:Fayer_consulting.My.MyWebExtension.Log">
+ <summary>
+ Gibt das ASP-Protokollobjekt zurück.
+ </summary>
+</member>
+<member name="T:Fayer_consulting.My.Resources.Resources">
+<summary>
+  Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+</summary>
+</member>
+<member name="P:Fayer_consulting.My.Resources.Resources.ResourceManager">
+<summary>
+  Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+</summary>
+</member>
+<member name="P:Fayer_consulting.My.Resources.Resources.Culture">
+<summary>
+  Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+  Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
+</summary>
+</member>
+<member name="F:Fayer_consulting.SiteMaster._MainContent">
+<summary>
+MainContent-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld.
+Zum Ändern die Felddeklaration aus der Designerdatei in die CodeBehind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:Fayer_consulting.Site_Mobile._Head1">
+<summary>
+Head1-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld.
+Zum Ändern die Felddeklaration aus der Designerdatei in die CodeBehind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:Fayer_consulting.Site_Mobile._HeadContent">
+<summary>
+HeadContent-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld.
+Zum Ändern die Felddeklaration aus der Designerdatei in die CodeBehind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:Fayer_consulting.Site_Mobile._form1">
+<summary>
+form1-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld.
+Zum Ändern die Felddeklaration aus der Designerdatei in die CodeBehind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:Fayer_consulting.Site_Mobile._FeaturedContent">
+<summary>
+FeaturedContent-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld.
+Zum Ändern die Felddeklaration aus der Designerdatei in die CodeBehind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:Fayer_consulting.Site_Mobile._MainContent">
+<summary>
+MainContent-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld.
+Zum Ändern die Felddeklaration aus der Designerdatei in die CodeBehind-Datei verschieben.
+</remarks>
+</member>
+<member name="F:Fayer_consulting.Site_Mobile._ViewSwitcher1">
+<summary>
+ViewSwitcher1-Steuerelement
+</summary>
+<remarks>
+Automatisch generiertes Feld.
+Zum Ändern die Felddeklaration aus der Designerdatei in die CodeBehind-Datei verschieben.
+</remarks>
+</member>
+</members>
+</doc>
